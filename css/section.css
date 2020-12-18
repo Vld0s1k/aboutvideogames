@@ -1,0 +1,21 @@
+section{
+	flex: 85%;
+	height: auto;
+	padding: 20px;
+	background-color: #f1f1f1;
+}
+.photo_news{
+	background-color: #AAA;
+	height: 400px;
+	width: 715px;
+	padding: 20px;
+	margin: 2% 0;
+}
+article{
+	padding: 20px;
+	color: black;
+}
+.photo_news img{
+	height: 400px;
+	width: auto;
+}

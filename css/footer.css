@@ -1,0 +1,25 @@
+footer{
+	height: 50px;
+	width: auto;
+	background-color: yellow;
+	color: black;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.networks img{
+	height: 40px;
+	width: auto;
+}
+.networks{
+	align-self: center;
+	padding-right: 25px;
+}
+.adress{
+	align-self: center;
+	padding-left: 25px; 
+}
+a{
+	text-decoration-line: none;
+	color: black;
+}
